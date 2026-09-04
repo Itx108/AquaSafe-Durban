@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+pydeck>=0.9
+requests>=2.31
+scikit-learn>=1.4
+matplotlib>=3.8
+joblib>=1.3
