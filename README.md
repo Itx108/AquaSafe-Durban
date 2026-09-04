@@ -142,7 +142,7 @@ AquaSafe-Durban/
 A. Clone or download the repository
 
 bash
-git clone https://github.com/YOUR-USERNAME/AquaSafe-Durban.git
+git clone https:
 cd AquaSafe-Durban
 
 B. Create a virtual environment (recommended)
